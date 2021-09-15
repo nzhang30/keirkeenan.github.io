@@ -1,0 +1,21 @@
+li.menu {
+    color: white;
+    background-color: rgb(201, 197, 175);
+    display: inline-block;
+    width: 20%;
+}
+li.menu:hover {
+    background-color: rgb(255, 145, 0);
+}
+h1, h2, h3 {
+    background-color: lightsalmon;
+}
+p {
+    background-color: antiquewhite;
+}
+tr:hover {
+    background-color: lightsalmon;
+}
+div#top {
+    text-align: center;
+}
