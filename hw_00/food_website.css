@@ -25,6 +25,18 @@ div.top {
     text-align: center;
 }
 
+div.mid:hover {
+    background-color: orange;
+}
+
+div.bottom:hover {
+    background-color: chocolate;
+}
+
+span {
+    color: grey;
+}
+
 h3#support {
     color: saddlebrown;
 }
@@ -32,6 +44,7 @@ h3#support {
 a {
     color: brown;
 }
+
 @media only screen and (max-width: 600px) {
     body {
       background-color: lightblue;
